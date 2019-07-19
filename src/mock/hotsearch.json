@@ -1,0 +1,177 @@
+
+ [
+    {
+    "keyword": "夏凉被82折起",
+    "schemeUrl": "https://you.163.com/item/list?categoryId=1005000&subCategoryId=109260008&keyword=%E5%A4%8F%E5%87%89%E8%A2%AB82%E6%8A%98%E8%B5%B7",
+    "highlight": 0,
+    "hidden": 0,
+    "type": 0,
+    "algSort": false,
+    "extra": {
+    "materialName": "夏凉被82折起",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "无分组",
+    "resourcesId": 5,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54629048",
+    "taskId": "54630079"
+    }
+    },
+    {
+    "keyword": "9.9元超值专区",
+    "schemeUrl": "https://you.163.com/topic/v1/pub/Pew1KBH9Au.html?keyword=9.9%E5%85%83%E8%B6%85%E5%80%BC%E4%B8%93%E5%8C%BA",
+    "highlight": 1,
+    "hidden": 0,
+    "type": 0,
+    "algSort": false,
+    "extra": {
+    "materialName": "9.9元超值专区",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "无分组",
+    "resourcesId": 7,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54629231",
+    "taskId": "54630530"
+    }
+    },
+    {
+    "keyword": "基础T恤30元起",
+    "schemeUrl": "https://you.163.com/item/list?categoryId=1010000&subCategoryId=109214000&keyword=%E5%9F%BA%E7%A1%80T%E6%81%A430%E5%85%83%E8%B5%B7",
+    "highlight": 0,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialName": "基础T恤30元起",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "",
+    "resourcesId": 1,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54629070",
+    "taskId": "54630163"
+    }
+    },
+    {
+    "keyword": "风扇",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "爆款 行李箱",
+    "schemeUrl": "https://you.163.com/item/list?categoryId=1010000&subCategoryId=1037000&keyword=%E7%88%86%E6%AC%BE%20%E8%A1%8C%E6%9D%8E%E7%AE%B1",
+    "highlight": 0,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialName": "爆款 行李箱",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "无分组",
+    "resourcesId": 3,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "50841935",
+    "taskId": "54629808"
+    }
+    },
+    {
+    "keyword": "杯子",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "电动牙刷69元起",
+    "schemeUrl": "http://you.163.com/item/list?categoryId=1013001&subCategoryId=109254053&keyword=%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B769%E5%85%83%E8%B5%B7",
+    "highlight": 0,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialName": "电动牙刷69元起",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "",
+    "resourcesId": 8,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54628664",
+    "taskId": "54630247"
+    }
+    },
+    {
+    "keyword": "枕头",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "冬枣 限时59元",
+    "schemeUrl": "https://you.163.com/item/detail?id=3829049&keyword=%E5%86%AC%E6%9E%A3%20%E9%99%90%E6%97%B659%E5%85%83",
+    "highlight": 0,
+    "hidden": 0,
+    "type": 0,
+    "algSort": true,
+    "extra": {
+    "materialName": "冬枣 限时59元",
+    "rcmdSort": false,
+    "taskType": 1,
+    "itemFrom": 0,
+    "crmUserGroupName": "无分组",
+    "resourcesId": 4,
+    "materialType": "热搜词id",
+    "crmUserGroupId": "0",
+    "materialId": "54629046",
+    "taskId": "54630076"
+    }
+    },
+    {
+    "keyword": "猫粮",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "电动牙刷",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    },
+    {
+    "keyword": "咖啡",
+    "schemeUrl": null,
+    "highlight": 0,
+    "hidden": 0,
+    "type": 1,
+    "algSort": false,
+    "extra": null
+    }
+    ]
